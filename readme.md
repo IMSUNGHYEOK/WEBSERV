@@ -31,6 +31,6 @@ __강조 방법 4__
 ~~cancelline~~
 </code></pre>
 
-![Alt text](C:\Users\CAL_B01/untitled.bmp)
+![사진 대체 출력](C:\Users\CAL_B01/untitled.bmp)
 
 
