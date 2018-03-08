@@ -16,8 +16,10 @@
 * 목록 기호 활용3
 * * * * * * * * * * * * * * * * * *
 <pre><code>
-가나다라마바사	아차자카타파하
+가나다라마바사아차자카타파하
 </code></pre>
+[link keyword][id]
+[id] : URL "www.naver.com"
 
 
 
