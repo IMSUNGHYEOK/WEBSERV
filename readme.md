@@ -29,6 +29,15 @@ _강조 방법 2_
 __강조 방법 4__
 ++밑줄 강조++
 ~~cancelline~~
+
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
+
+
 </code></pre>
 
 ![사진 대체 출력](C:\Users\CAL_B01/untitled.bmp)
