@@ -30,12 +30,13 @@ __강조 방법 4__
 ++밑줄 강조++
 ~~cancelline~~
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
+<p><em>single asterisks</em>
+<em>single underscores</em>
+<strong>double asterisks</strong>
+<strong>double underscores</strong>
 ++underline++
-~~cancelline~~
+<del>cancelline</del></p>
+
 
 
 </code></pre>
