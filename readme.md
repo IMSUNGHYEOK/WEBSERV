@@ -23,21 +23,13 @@ Link : [NAVER][naverlink]
 
 * * * * * * * * * * * * * * * * * *
 <pre><code>
-*강조 방법 1*
-_강조 방법 2_
-**강조 방법 3**
-__강조 방법 4__
-++밑줄 강조++
-~~cancelline~~
 
-<p><em>single asterisks</em>
-<em>single underscores</em>
-<strong>double asterisks</strong>
+<p><em>강조 방법 1</em>
+<em>강조 방법 2</em>
+<strong>강조 방법 3</strong>
 <strong>double underscores</strong>
-++underline++
+++밑줄 강조++
 <del>cancelline</del></p>
-
-
 
 </code></pre>
 
