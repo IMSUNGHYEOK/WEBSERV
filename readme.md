@@ -22,11 +22,15 @@ Link : [NAVER][naverlink]
 [naverlink] : www.naver.com "네이버"
 
 * * * * * * * * * * * * * * * * * *
+<pre><code>
 *강조 방법 1*
 _강조 방법 2_
 **강조 방법 3**
 __강조 방법 4__
 ++밑줄 강조++
 ~~cancelline~~
+</code></pre>
+
+![Alt text](C:\Users\CAL_B01/untitled.bmp)
 
 
